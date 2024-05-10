@@ -56,7 +56,8 @@
                 android:drawableTint="@color/white"
                 android:focusable="true"
                 android:text="Edit"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                app:backgroundTint="@color/purple_200" />
 
 
             <com.google.android.material.button.MaterialButton
@@ -67,10 +68,12 @@
                 android:layout_marginStart="10dp"
                 android:clickable="true"
                 android:drawableEnd="@drawable/ic_baseline_delete_24"
-                android:drawableTint="@color/grey"
+                android:drawableTint="@color/purple_200"
                 android:focusable="true"
                 android:text="Delete"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:textColor="@color/purple_200"
+                app:iconTint="@color/purple_200" />
 
 
         </LinearLayout>
