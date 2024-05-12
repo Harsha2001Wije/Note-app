@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:fontFamily="cursive"
-            android:text="I am Description"
+            android:text="Type your content here"
             android:textColor="@color/grey"
             android:textSize="18sp"
             android:textStyle="bold" />
