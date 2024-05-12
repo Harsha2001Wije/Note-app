@@ -8,10 +8,13 @@
 
 - For persistence of data I am using SQLite (database).
 
+### Home :
+
+
 
 ### To add :
 
-<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/note-app/master/App-Snapshot/snapshot1.jpeg"> <img width="200" 
+<img width="200" alt="sampleimages" src="create.jpg"> <img width="200" 
 alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/note-app/master/App-Snapshot/snapshot2.jpeg"> <img width="200" 
 alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/note-app/master/App-Snapshot/snapshot3.jpeg"> <img width="200" 
 alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/note-app/master/App-Snapshot/snapshot4.jpeg"> 
